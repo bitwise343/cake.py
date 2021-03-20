@@ -25,7 +25,7 @@ idna==2.8
 imagesize==1.1.0
 importlib-metadata==0.19
 ipfshttpclient==0.4.12
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsonschema==2.6.0
 lru-dict==1.1.6
 MarkupSafe==1.1.1
