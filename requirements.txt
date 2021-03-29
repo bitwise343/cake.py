@@ -43,7 +43,7 @@ py==1.8.0
 py-geth==2.1.0
 py-solc==3.2.0
 pycryptodome==3.8.2
-Pygments==2.4.2
+Pygments==2.7.4
 pyparsing==2.4.2
 pytest==4.6.5
 pytz==2019.2
