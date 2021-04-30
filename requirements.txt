@@ -63,7 +63,7 @@ sphinxcontrib-qthelp==1.0.2
 sphinxcontrib-serializinghtml==1.1.3
 toolz==0.10.0
 toposort==1.5
-urllib3==1.25.3
+urllib3==1.25.8
 varint==1.0.2
 wcwidth==0.1.7
 -e git+https://github.com/ethereum/web3.py.git@01380b5f4c32115c59390b91efe602c0b40b44a1#egg=web3
