@@ -5,7 +5,7 @@ attrdict==2.0.1
 attrs==19.1.0
 Babel==2.7.0
 base58==1.0.3
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 configparser==3.5.0
